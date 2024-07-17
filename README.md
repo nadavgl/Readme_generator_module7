@@ -1,39 +1,22 @@
-# yarday
+# README generator 
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Tests](#tests)
-- [Contribution](#contribution)
-- [Questions](#questions)
-- [License](#license)
-
 ## Description
 
-diem
+This terminal application allows uers to generate professional README.mds files for their projects.
 
 ## Installation
-
-whats
+Terminal must be used to run this application
 
 ## Usage
 
-good
+This application is for generating README.md files
 
-## Tests
-
-my du
-
-## Contribution
-
-dude
 
 ## Questions
 
-For any questions, you can find me on [GitHub](https://github.com/er).
+For any questions, you can find me on [GitHub](https://github.com/nadavgl).
 
 ## License
 
